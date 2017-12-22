@@ -1,0 +1,7 @@
+﻿  FindReshuffle.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task32\task32\findreshuffle.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task32\task32\findreshuffle.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task32\task32\findreshuffle.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task32\task32\findreshuffle.cpp(50): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task32\task32\findreshuffle.cpp(51): warning C4018: <=: несоответствие типов со знаком и без знака
+  Task32.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task32\Debug\Task32.exe
